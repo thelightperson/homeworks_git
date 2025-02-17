@@ -1,2 +1,2 @@
 # homeworks_git
-Домашние задания по python: pandas, scipy, matplotlib, seaborn, ML
+Работа с данными на языке python: pandas, scipy, matplotlib, seaborn, ML
